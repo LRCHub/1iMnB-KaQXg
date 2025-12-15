@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Marshmallow day",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-15T06:09:05.989728Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Marshmallow Day",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_Marshmallow_Day_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Marshmallow Day (Remastering 2022)",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/02_Marshmallow_Day_(Remastering_2022)_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Marshmallow day",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/03_Marshmallow_day_Mr.Children.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Marshmallow day",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_Marshmallow_day_Mr.Children.txt"
+    }
+  ]
+}
